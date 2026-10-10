@@ -145,7 +145,7 @@ I'm particularly interested in:
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasanna%20Balaji-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prasanna-balaji-t-p-8251aa1a4//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasanna%20Balaji-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prasanna-balaji-t-p-8251aa1a4/)
 [![GitHub](https://img.shields.io/badge/GitHub-prasannabalajitp-black?style=flat&logo=github)](https://github.com/prasannabalajitp)
 
 ---
